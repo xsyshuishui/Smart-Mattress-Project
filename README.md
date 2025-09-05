@@ -27,13 +27,10 @@
 
 ### 运行步骤
 ```bash
-# 1. 激活Python虚拟环境
-source ../venv/bin/activate
-
-# 2. 启动WebSocket服务器
+# 1. 启动WebSocket服务器
 python server.py
 
-# 3. 浏览器打开客户端界面
+# 2. 浏览器打开客户端界面
 # 直接打开 clients.html 文件
 ```
 
